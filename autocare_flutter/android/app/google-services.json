@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "707944149328",
+    "firebase_url": "https://autocare-87fcc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "autocare-87fcc",
+    "storage_bucket": "autocare-87fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707944149328:android:456e4d711232b781507c55",
+        "android_client_info": {
+          "package_name": "com.example.autocare_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr103szabBrPJOeCzPMOi7XIP_b5L8ULM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
